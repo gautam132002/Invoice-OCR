@@ -2,3 +2,4 @@ pandas
 pymupdf
 tk
 tqdm
+rich
