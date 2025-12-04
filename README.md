@@ -1,4 +1,4 @@
-# Invoice Processing
+# Invoice OCR
 
 A small, self-contained toolkit to:
 
